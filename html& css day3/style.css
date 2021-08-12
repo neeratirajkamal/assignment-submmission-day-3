@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin:0;
+}
+.one{
+    border: solid 8px blue;
+    
+}
+.onechild {
+    border: solid 8px red
+    
+
+}
+.twochild {
+    border:solid 8px black ;
+    
+}
+.thirdchild {
+    
+    border: solid 8px green;
+}
+
+
